@@ -1,0 +1,8 @@
+optOut: false
+lastUpdateCheck: 1402081402025
+update:
+  latest: 0.7.4
+  current: 0.7.1
+  type: patch
+  date: "2014-05-17T14:29:22.582Z"
+  name: generator-express-simple
