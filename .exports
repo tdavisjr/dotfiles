@@ -13,5 +13,9 @@ export HISTCONTROL=ignoredups
 HISTTIMEFORMAT='%F %T '
 export HISTTIMEFORMAT
 
+
+export PATH=/usr/local/bin:$PATH
+
+
 # Make some commands not show up in history
 export HISTIGNORE="ls:ls *:cd:cd -:pwd;exit:date:* --help"
